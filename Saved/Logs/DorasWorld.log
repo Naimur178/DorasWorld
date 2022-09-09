@@ -791,3 +791,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.09-15.45.56:956][263]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/Maps/CastleEnvironment_sharedassets/AutoMaterial_LayerInfo.AutoMaterial_LayerInfo
 [2022.09.09-15.46.26:579][341]LogSlate: Window 'Message' being destroyed
 [2022.09.09-15.46.26:585][341]Message dialog closed, result: Ok, title: Message, text: This layer has no layer info assigned yet. You must create or assign a layer info before you can paint this layer.
+[2022.09.09-16.21.27:083][873]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.09.09-16.42.10:282][584]LogDerivedDataCache: C:/Users/naimu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.337 and deleted 0 file(s) with total size 0 MiB.
